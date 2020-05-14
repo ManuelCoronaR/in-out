@@ -24,6 +24,11 @@
         width: 35%;
     }
 
+    .red-logo:before {
+        margin-top: 75%;
+        width: 5%;
+    }
+
     .skills_items .skill_item:nth-child(4) {
         margin-bottom: 30px;
     }

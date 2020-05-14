@@ -17,7 +17,7 @@
         }
 
         // Update this to your desired email address.
-        $recipient = "contact@cracktheme.com";
+        $recipient = "cubandancespirit@gmail.com";
         $subject = "Message From $name";
         
         // Email content.
