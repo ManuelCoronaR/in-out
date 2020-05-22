@@ -107,7 +107,7 @@
     }
 
     .navbar-collapse {
-        background-color: #181818;
+        /* background-color: #181818; */
         border-top: medium none;
         box-shadow: none;
         margin-top: 0px;
@@ -123,14 +123,14 @@
 
     ul.nav>li>a {
         font-size: 14px;
-        color: #fff;
+        color: rgb(0, 0, 0);
         line-height: 60px;
         padding: 0 30px;
     }
 
     ul.nav>li>a:hover,
     ul.nav>li.active>a {
-        background-color: #ffc327;
+        background-color: #1673b1c2;
         color: #fff;
     }
 
